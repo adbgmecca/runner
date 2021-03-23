@@ -1,30 +1,33 @@
 ---
 name: Bug report
 about: Report a bug
-title: '[short description of the bug]'
-labels: ''
+title: 'PowerShell Kata bug'
+labels: 'PowerShell'
 assignees: ''
 
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+All PowerShell Katas can be solved by just adding a 'break' and clicking submit
 
 **To Reproduce**
-Provide code to reproduce the behavior or a link to Kumite.
-
+https://www.codewars.com/kata/56c04261c3fcf33f2d000534/train/powershell
+function Doubles 
+{
+    
+break
+}
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+The kata will show as compeleted
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+![image](https://user-images.githubusercontent.com/25113912/112113495-3f162e80-8b8d-11eb-973b-41259aa7b16d.png)
+
 
 **Browser**
 If applicable, please provide your browser information.
 
-- OS: [e.g. macOS]
-- Browser [e.g. chrome, firefox, safari]
-- Version [e.g. 22]
+All 
 
 **Additional context**
 Add any other context about the problem here.
